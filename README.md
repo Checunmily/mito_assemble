@@ -28,5 +28,5 @@ perl assemble_mito_novo.pl -- query taxon.txt --reference mitoref.fas
 
 
 
-5.Don't forget to put data.pm module into the same dir;
+5.Don't forget to put data.pm module into the same dir.
 
