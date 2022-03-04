@@ -22,10 +22,9 @@ GGCCTTCCGTAG
 
 
 4.After all the files above have been prepared, you can use the script to assemble the mitogenome of each taxon.
-You don't need to type .txt or .fas, the script will complement that.
 like this:
 
-perl assemble_mito.pl -- query taxon.txt --reference mitoref.fas
+perl assemble_mito_novo.pl -- query taxon.txt --reference mitoref.fas
 
 
 
